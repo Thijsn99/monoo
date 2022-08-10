@@ -6,3 +6,4 @@ numpy
 IPython
 colorama
 sympy
+voila
