@@ -4,3 +4,5 @@ matplotlib
 ipywidgets
 numpy
 IPython
+colorama
+sympy
